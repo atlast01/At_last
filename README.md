@@ -15,7 +15,7 @@ class IndieGameDev:
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
-        print("Thank you for stopping by. I'm an indie game developer, and I hope you enjoy the games I've created.")
+        print("Thank you for stopping by. I'm an indie game developer,and I hope you enjoy the games I've created.")
 
 
 me = indiegamedev()
