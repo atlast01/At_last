@@ -7,7 +7,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 # -*- coding: utf-8 -*-
 
 
-class indiegamedev:
+class IndieGameDev:
 
     def __init__(self):
         self.name = "Nube"
